@@ -1,4 +1,4 @@
-## BlockSynergy Walkthrough
+# BlockSynergy Walkthrough
 
 Machine has not been retired yet. Due to HTB guidelines, I will not be uploading the walkthrough of how I completed this machine, until it has been retired and removed from the active pool.
 
