@@ -8,7 +8,7 @@ The goal is to document my journey as I learn more, and hopefully help others wi
 ## Structure
 
 *   [CTFs](/CTFs/) - Walkthroughs and write-ups of machines that I have completed (HTB).
-*   [Reports](/Reports)` - Writeups of things that are possible currently (or at the time of writing) – sanitised and any identifying information redacted.
+*   [Reports](/Reports) - Writeups of things that are possible currently (or at the time of writing) – sanitised and any identifying information redacted.
 
 ---
 
