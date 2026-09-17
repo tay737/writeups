@@ -30,4 +30,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-```
+## Disclaimer
+
+The content provided in this repository is strictly for educational, research, and authorized penetration testing purposes. Do not use any of this information or associated scripts against systems you do not own or have explicit written permission to test. The author is not responsible for any misuse or damage caused by this material.
+
+
