@@ -38,7 +38,7 @@ SOFTWARE.
 
 If you use, reference, or quote these writeups in your own blogs, videos, or courses, please provide attribution by linking back to this repository:
 
-Original content by @tay737 [[https://github.com/tay737/]]
+Original content by @tay737
 
 ---
 
