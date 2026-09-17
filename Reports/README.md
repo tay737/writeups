@@ -1,4 +1,4 @@
-# Vulnerability & Assessment Reports
+# Reports
 
 This directory contains findings within real-life assessments, audits, and personal experimentation/testing on controlled environments and labs.
 
@@ -7,7 +7,7 @@ This directory contains findings within real-life assessments, audits, and perso
 ## Standards
 
 To maintain industry best practices and confidentiality:
-*   **Format:** All reports are provided in **PDF format** for optimal formatting and preservation, undergoing rigorous **redaction and sanitisation**. All sensitive and identifying information has been removed.
+*   **Format:** All reports are provided in **PDF format** for optimal formatting and preservation, having undergone rigorous **redaction and sanitisation** before upload. All sensitive and identifying information has been removed.
 ---
 
 ## Index
@@ -18,7 +18,7 @@ To maintain industry best practices and confidentiality:
 
 ## License & Attribution
 
-MIT License
+**MIT License**
 
 Copyright (c) 2026 tay737
 
