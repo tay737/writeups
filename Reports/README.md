@@ -12,7 +12,7 @@ To maintain industry best practices and confidentiality:
 
 ## Index
 
-*   **[Circumvention of Network Filtering](/2026_09_16-circumvention.pdf/)** - *PoC – circumvention of DPI/DNS filtering in educational institutions via VLESS/Reality proxy protocols for encrypted tunnelling.*
+*   **[Circumvention of Network Filtering](Reports/2026_09_16-circumvention.pdf/)** - *PoC – circumvention of DPI/DNS filtering in educational institutions via VLESS/Reality proxy protocols for encrypted tunnelling.*
 
 ---
 
