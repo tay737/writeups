@@ -20,7 +20,7 @@
 - WinRM over `5986`
 - AD Web Services
 - `NTLM:False` → Kerberos-only auth
-- Used `fixhosts.c` + local `krb5.conf` for name resolution.
+- Used `tools/fixhosts.c` + local `tools/krb5.conf` for name resolution.
 
 Web app: `https://hercules.htb/`
 
@@ -62,7 +62,7 @@ Rate limit was **per session**, not IP.
 - Built a 16-session extraction pool.
 
 ```bash
-python3 pool_extract.py
+python3 tools/pool_extract.py
 ```
 
 ## 4. Blind Extraction
@@ -281,26 +281,8 @@ NTLM disabled, valid ccaches and correct SPNs = essential!
 # Tools
 
 ```text
-fixhosts.c
-krb5.conf
-pool_extract.py
-enum_desc_users.py
-extract_user.py
-spray4.sh
-web_ken.py
-CookieForge/
-use_forged.py
-mkbadodt2.py
-upload2.py
-bh_out.py
-sd_dump_krb.py
-move_ou.py
-user_admin.py
-ou_acl.py
-set_pwd.py
-winrm_krb.py
-rbcd_ws.sh
-find_flags.py
+All scripts, supporting source files, and the Kerberos configuration are in tools/.
+CookieForge/ remains a separate project.
 ```
 Working on making an automated script that includes the tools that were created for this machine, and executes as a singular .py that gets you from start to finish automatically, will upload later when done, but it's not a priority as of now.
 
