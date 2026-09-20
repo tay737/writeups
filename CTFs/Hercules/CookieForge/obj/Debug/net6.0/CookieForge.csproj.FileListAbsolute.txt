@@ -1,0 +1,17 @@
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/CookieForge.csproj.AssemblyReference.cache
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/CookieForge.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/CookieForge.AssemblyInfoInputs.cache
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/CookieForge.AssemblyInfo.cs
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/CookieForge.csproj.CoreCompileInputs.cache
+/home/kali/hercules/CookieForge/bin/Debug/net6.0/CookieForge
+/home/kali/hercules/CookieForge/bin/Debug/net6.0/CookieForge.deps.json
+/home/kali/hercules/CookieForge/bin/Debug/net6.0/CookieForge.runtimeconfig.json
+/home/kali/hercules/CookieForge/bin/Debug/net6.0/CookieForge.dll
+/home/kali/hercules/CookieForge/bin/Debug/net6.0/CookieForge.pdb
+/home/kali/hercules/CookieForge/bin/Debug/net6.0/AspNetCore.LegacyAuthCookieCompat.dll
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/CookieForge.csproj.CopyComplete
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/CookieForge.dll
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/refint/CookieForge.dll
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/CookieForge.pdb
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/CookieForge.genruntimeconfig.cache
+/home/kali/hercules/CookieForge/obj/Debug/net6.0/ref/CookieForge.dll
