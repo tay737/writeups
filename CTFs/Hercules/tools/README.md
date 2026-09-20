@@ -1,4 +1,4 @@
-# Hercules tooling
+# Tools
 
 All Python, shell, C, and Kerberos tooling for this machine is kept in this folder.
 `CookieForge/` is a separate .NET project and remains alongside this folder.
