@@ -2,7 +2,7 @@
 - (Windows/AD)
 - (Insane)
 - (Retired - at the time of completion)
-- [https://app.hackthebox.com/machines/Hercules](Link to machine)
+- [https://app.hackthebox.com/machines/Hercules]
 
 # Proof of completion
 
